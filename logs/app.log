@@ -1,0 +1,82 @@
+2024-08-17 13:44:37 INFO  LoggerClass:11 - Login test
+2024-08-17 13:44:37 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-17 13:44:38 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-17 13:44:38 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-17 13:44:38 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 13:55:06 INFO  LoggerClass:11 - Login test
+2024-08-17 13:55:06 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-17 13:55:06 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-17 13:55:06 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-17 13:55:06 INFO  LoggerClass:11 - Logout test
+2024-08-17 13:55:06 INFO  LoggerClass:11 - Zalogowanie do panelu
+2024-08-17 13:55:06 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-17 13:55:06 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 13:57:22 INFO  LoggerClass:11 - Login test
+2024-08-17 13:57:22 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-17 13:57:22 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-17 13:57:22 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-17 13:57:23 INFO  LoggerClass:11 - Kliknięcie przycisku wyloguj
+2024-08-17 13:57:23 INFO  LoggerClass:11 - Logout test
+2024-08-17 13:57:23 INFO  LoggerClass:11 - Zalogowanie do panelu
+2024-08-17 13:57:23 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-17 13:57:23 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-17 13:57:23 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-17 13:57:24 INFO  LoggerClass:11 - Kliknięcie przycisku wyloguj
+2024-08-17 13:57:24 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 13:58:53 INFO  LoggerClass:11 - Login test
+2024-08-17 13:58:53 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-17 13:58:54 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-17 13:58:54 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-17 13:58:54 INFO  LoggerClass:11 - Kliknięcie przycisku wyloguj
+2024-08-17 13:58:54 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:08:06 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-17 15:08:06 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:11:39 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-17 15:11:39 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:21:36 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-17 15:21:36 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:21:47 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-17 15:21:47 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:22:11 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-17 15:22:11 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:24:48 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-17 15:24:48 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:29:31 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-17 15:29:31 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-17 15:29:31 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:36:24 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-17 15:36:24 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-17 15:36:25 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:38:59 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-17 15:38:59 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-17 15:38:59 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:40:21 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-17 15:40:21 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-17 15:40:21 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:42:44 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-17 15:42:44 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-17 15:42:45 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-17 15:42:45 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-17 15:42:45 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-17 15:42:45 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-17 15:42:45 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:43:51 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-17 15:43:51 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-17 15:43:51 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-17 15:43:51 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-17 15:43:51 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-17 15:43:51 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-17 15:43:52 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:45:26 INFO  LoggerClass:11 - Login test
+2024-08-17 15:45:26 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-17 15:45:26 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-17 15:45:26 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-17 15:45:27 INFO  LoggerClass:11 - Kliknięcie przycisku wyloguj
+2024-08-17 15:45:27 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-17 15:45:30 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-17 15:45:30 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-17 15:45:30 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-17 15:45:30 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-17 15:45:30 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-17 15:45:30 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-17 15:45:31 INFO  LoggerClass:11 - Zamknięcie przeglądarki
