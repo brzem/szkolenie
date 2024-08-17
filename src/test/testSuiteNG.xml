@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Selenium Shop Test NG Regression" >
+    <test name = "Full Regression">
+            <classes>
+                <class name = "tests.LoginPageTest" />
+                <class name = "tests.QuestionaryPageTest" />
+            </classes>
+    </test>
+</suite>

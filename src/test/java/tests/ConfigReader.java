@@ -36,6 +36,10 @@ public class ConfigReader {
         return properties.getProperty("app.url");
     }
 
+    public String getQuestionaryURL(){
+        return properties.getProperty("questionary.url");
+    }
+
     public String getUsername() {
         return properties.getProperty("userName");
     }

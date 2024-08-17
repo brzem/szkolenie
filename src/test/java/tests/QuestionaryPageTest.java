@@ -3,23 +3,23 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import pages.LoggerClass;
-import pages.LoginPage;
+import pages.QuestionaryPage;
 
-public class LoginPageTest {
+
+public class QuestionaryPageTest {
+
     WebDriver driver;
     ConfigReader config;
-    LoginPage loginPage;
+    QuestionaryPage questionaryPage;
 
     @BeforeClass
     public void setup(){
         config = new ConfigReader();
         ChromeOptions options = new ChromeOptions();
-
         if(config.isNoDefaultBrowserCheck()) {
             options.addArguments("--disable-search-engine-choice-screen");
         }
@@ -33,24 +33,27 @@ public class LoginPageTest {
         options.addArguments("user-data-dir=C:/Users/Czester/AppData/Local/Google/Chrome/User Data/Default"
         );
         driver = new ChromeDriver(options);
-        driver.get(config.getApplicationURL());
-        loginPage = PageFactory.initElements(driver, LoginPage.class);
+        driver.get(config.getQuestionaryURL());
+        questionaryPage = PageFactory.initElements(driver, QuestionaryPage.class);
     }
-
 
     @Test
-    public void loginTest(){
-        LoggerClass.info("Login test");
-        loginPage.loginTest(config.getUsername(),config.getPassword());
+    public void QuestionaryFirstSetupTest(){
+        LoggerClass.info("QuestionaryFirstSetupTest");
+        questionaryPage.QuestionaryFirstSetupTest();
     }
 
+    @Test
+    public void QuestionaryDataPickerTest(){
+        LoggerClass.info("QuestionaryDataPickerTest");
+        questionaryPage.QuestionaryDataPickerTest();
+    }
 
     @AfterClass
-    public void tearDown() {
+    public void teardown(){
         LoggerClass.info("Zamknięcie przeglądarki");
-        if (driver != null) {
+        if (driver != null){
             driver.quit();
         }
     }
-
 }
