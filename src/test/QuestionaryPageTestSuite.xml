@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Selenium Shop Test NG Regression" >
+    <test name = "QuestionaryPage">
+        <classes>
+            <class name = "tests.QuestionaryPageTest" >
+                <methods>
+                    <include name="QuestionaryFirstSetupTest" />
+                    <include name="QuestionaryDataPickerTest" />
+                    <include name="QuestionaryAlertTest" />
+                    <include name="QuestionaryPromptAlertTest" />
+                    <include name="QuestionaryConfirmAcceptTest" />
+                    <include name="QuestionaryConfirmRejectTest" />
+                    <include name="QuestionaryRightClickTest" />
+                    <include name="QuestionaryProcessTest" />
+                    <include name="QuestionaryDoubleClickTest" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

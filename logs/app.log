@@ -1,82 +1,330 @@
-2024-08-17 13:44:37 INFO  LoggerClass:11 - Login test
-2024-08-17 13:44:37 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
-2024-08-17 13:44:38 INFO  LoggerClass:11 - Podanie nazwy password do pola input
-2024-08-17 13:44:38 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
-2024-08-17 13:44:38 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 13:55:06 INFO  LoggerClass:11 - Login test
-2024-08-17 13:55:06 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
-2024-08-17 13:55:06 INFO  LoggerClass:11 - Podanie nazwy password do pola input
-2024-08-17 13:55:06 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
-2024-08-17 13:55:06 INFO  LoggerClass:11 - Logout test
-2024-08-17 13:55:06 INFO  LoggerClass:11 - Zalogowanie do panelu
-2024-08-17 13:55:06 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
-2024-08-17 13:55:06 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 13:57:22 INFO  LoggerClass:11 - Login test
-2024-08-17 13:57:22 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
-2024-08-17 13:57:22 INFO  LoggerClass:11 - Podanie nazwy password do pola input
-2024-08-17 13:57:22 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
-2024-08-17 13:57:23 INFO  LoggerClass:11 - Kliknięcie przycisku wyloguj
-2024-08-17 13:57:23 INFO  LoggerClass:11 - Logout test
-2024-08-17 13:57:23 INFO  LoggerClass:11 - Zalogowanie do panelu
-2024-08-17 13:57:23 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
-2024-08-17 13:57:23 INFO  LoggerClass:11 - Podanie nazwy password do pola input
-2024-08-17 13:57:23 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
-2024-08-17 13:57:24 INFO  LoggerClass:11 - Kliknięcie przycisku wyloguj
-2024-08-17 13:57:24 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 13:58:53 INFO  LoggerClass:11 - Login test
-2024-08-17 13:58:53 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
-2024-08-17 13:58:54 INFO  LoggerClass:11 - Podanie nazwy password do pola input
-2024-08-17 13:58:54 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
-2024-08-17 13:58:54 INFO  LoggerClass:11 - Kliknięcie przycisku wyloguj
-2024-08-17 13:58:54 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:08:06 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
-2024-08-17 15:08:06 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:11:39 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
-2024-08-17 15:11:39 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:21:36 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
-2024-08-17 15:21:36 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:21:47 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
-2024-08-17 15:21:47 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:22:11 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
-2024-08-17 15:22:11 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:24:48 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
-2024-08-17 15:24:48 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:29:31 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
-2024-08-17 15:29:31 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
-2024-08-17 15:29:31 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:36:24 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
-2024-08-17 15:36:24 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
-2024-08-17 15:36:25 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:38:59 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
-2024-08-17 15:38:59 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
-2024-08-17 15:38:59 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:40:21 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
-2024-08-17 15:40:21 INFO  LoggerClass:11 - First Setup Test - input surname
-2024-08-17 15:40:21 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:42:44 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
-2024-08-17 15:42:44 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
-2024-08-17 15:42:45 INFO  LoggerClass:11 - First Setup Test - input surname
-2024-08-17 15:42:45 INFO  LoggerClass:11 - First Setup Test - input male
-2024-08-17 15:42:45 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
-2024-08-17 15:42:45 INFO  LoggerClass:11 - First Setup Test - checkbox Product
-2024-08-17 15:42:45 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:43:51 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
-2024-08-17 15:43:51 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
-2024-08-17 15:43:51 INFO  LoggerClass:11 - First Setup Test - input surname
-2024-08-17 15:43:51 INFO  LoggerClass:11 - First Setup Test - input male
-2024-08-17 15:43:51 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
-2024-08-17 15:43:51 INFO  LoggerClass:11 - First Setup Test - checkbox Product
-2024-08-17 15:43:52 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:45:26 INFO  LoggerClass:11 - Login test
-2024-08-17 15:45:26 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
-2024-08-17 15:45:26 INFO  LoggerClass:11 - Podanie nazwy password do pola input
-2024-08-17 15:45:26 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
-2024-08-17 15:45:27 INFO  LoggerClass:11 - Kliknięcie przycisku wyloguj
-2024-08-17 15:45:27 INFO  LoggerClass:11 - Zamknięcie przeglądarki
-2024-08-17 15:45:30 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
-2024-08-17 15:45:30 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
-2024-08-17 15:45:30 INFO  LoggerClass:11 - First Setup Test - input surname
-2024-08-17 15:45:30 INFO  LoggerClass:11 - First Setup Test - input male
-2024-08-17 15:45:30 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
-2024-08-17 15:45:30 INFO  LoggerClass:11 - First Setup Test - checkbox Product
-2024-08-17 15:45:31 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 08:25:18 INFO  LoggerClass:11 - Login test
+2024-08-18 08:25:18 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-18 08:25:18 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-18 08:25:18 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-18 08:25:19 INFO  LoggerClass:11 - Kliknięcie przycisku wyloguj
+2024-08-18 08:25:19 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 10:19:28 INFO  LoggerClass:11 - Login test
+2024-08-18 10:19:28 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-18 10:19:28 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-18 10:19:28 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-18 10:19:29 INFO  LoggerClass:11 - Kliknięcie przycisku wyloguj
+2024-08-18 10:19:29 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 10:19:31 INFO  LoggerClass:11 - QuestionaryAlertTest
+2024-08-18 10:19:31 INFO  LoggerClass:11 - QuestionaryAlert 
+2024-08-18 10:19:31 INFO  LoggerClass:11 - QuestionaryConfirmAlertTest
+2024-08-18 10:19:31 INFO  LoggerClass:11 - QuestionaryConfirmAcceptButtonTest
+2024-08-18 10:19:31 INFO  LoggerClass:11 - QuestionaryConfirmRejectTest
+2024-08-18 10:19:31 INFO  LoggerClass:11 - QuestionaryConfirmDismissButton 
+2024-08-18 10:19:31 INFO  LoggerClass:11 - QuestionaryDataPickerTest
+2024-08-18 10:19:31 INFO  LoggerClass:11 - QuestionaryDataPicker
+2024-08-18 10:19:31 INFO  LoggerClass:11 - QuestionaryDoubleClickTest
+2024-08-18 10:19:31 INFO  LoggerClass:11 - QuestionaryDoubleClick
+2024-08-18 10:19:32 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-18 10:19:32 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-18 10:19:32 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-18 10:19:32 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-18 10:19:32 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-18 10:19:32 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-18 10:19:32 INFO  LoggerClass:11 - QuestionaryPromptAlertTest
+2024-08-18 10:19:32 INFO  LoggerClass:11 - QuestionaryPromptAlert
+2024-08-18 10:19:32 INFO  LoggerClass:11 - QuestionaryRightClickTest
+2024-08-18 10:19:32 INFO  LoggerClass:11 - QuestionaryRightClick
+2024-08-18 10:19:32 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 13:16:20 INFO  LoggerClass:11 - QuestionaryAlertTest
+2024-08-18 13:16:20 INFO  LoggerClass:11 - QuestionaryAlert 
+2024-08-18 13:16:20 INFO  LoggerClass:11 - QuestionaryConfirmAlertTest
+2024-08-18 13:16:20 INFO  LoggerClass:11 - QuestionaryConfirmAcceptButtonTest
+2024-08-18 13:16:20 INFO  LoggerClass:11 - QuestionaryConfirmRejectTest
+2024-08-18 13:16:20 INFO  LoggerClass:11 - QuestionaryConfirmDismissButton 
+2024-08-18 13:16:20 INFO  LoggerClass:11 - QuestionaryDataPickerTest
+2024-08-18 13:16:20 INFO  LoggerClass:11 - QuestionaryDataPicker
+2024-08-18 13:16:21 INFO  LoggerClass:11 - QuestionaryDoubleClickTest
+2024-08-18 13:16:21 INFO  LoggerClass:11 - QuestionaryDoubleClick
+2024-08-18 13:16:21 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-18 13:16:21 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-18 13:16:21 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-18 13:16:21 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-18 13:16:21 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-18 13:16:21 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-18 13:16:21 INFO  LoggerClass:11 - QuestionaryNewTabTest
+2024-08-18 13:16:21 INFO  LoggerClass:11 - QuestionaryNewTab
+2024-08-18 13:16:22 INFO  LoggerClass:11 - QuestionaryProcessTest
+2024-08-18 13:16:22 INFO  LoggerClass:11 - QuestionaryProcessClick
+2024-08-18 13:16:22 INFO  LoggerClass:11 - QuestionaryPromptAlertTest
+2024-08-18 13:16:22 INFO  LoggerClass:11 - QuestionaryPromptAlert
+2024-08-18 13:16:22 INFO  LoggerClass:11 - QuestionaryRightClickTest
+2024-08-18 13:16:22 INFO  LoggerClass:11 - QuestionaryRightClick
+2024-08-18 13:16:22 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 13:18:53 INFO  LoggerClass:11 - QuestionaryAlertTest
+2024-08-18 13:18:53 INFO  LoggerClass:11 - QuestionaryAlert 
+2024-08-18 13:18:53 INFO  LoggerClass:11 - QuestionaryConfirmAlertTest
+2024-08-18 13:18:53 INFO  LoggerClass:11 - QuestionaryConfirmAcceptButtonTest
+2024-08-18 13:18:53 INFO  LoggerClass:11 - QuestionaryConfirmRejectTest
+2024-08-18 13:18:53 INFO  LoggerClass:11 - QuestionaryConfirmDismissButton 
+2024-08-18 13:18:53 INFO  LoggerClass:11 - QuestionaryDataPickerTest
+2024-08-18 13:18:53 INFO  LoggerClass:11 - QuestionaryDataPicker
+2024-08-18 13:18:54 INFO  LoggerClass:11 - QuestionaryDoubleClickTest
+2024-08-18 13:18:54 INFO  LoggerClass:11 - QuestionaryDoubleClick
+2024-08-18 13:18:54 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-18 13:18:54 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-18 13:18:54 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-18 13:18:54 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-18 13:18:54 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-18 13:18:54 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-18 13:18:54 INFO  LoggerClass:11 - QuestionaryNewTabTest
+2024-08-18 13:18:54 INFO  LoggerClass:11 - QuestionaryNewTab
+2024-08-18 13:18:55 INFO  LoggerClass:11 - QuestionaryProcessTest
+2024-08-18 13:18:55 INFO  LoggerClass:11 - QuestionaryProcessClick
+2024-08-18 13:18:55 INFO  LoggerClass:11 - QuestionaryPromptAlertTest
+2024-08-18 13:18:55 INFO  LoggerClass:11 - QuestionaryPromptAlert
+2024-08-18 13:18:55 INFO  LoggerClass:11 - QuestionaryRightClickTest
+2024-08-18 13:18:55 INFO  LoggerClass:11 - QuestionaryRightClick
+2024-08-18 13:18:55 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 13:19:13 INFO  LoggerClass:11 - QuestionaryAlertTest
+2024-08-18 13:19:13 INFO  LoggerClass:11 - QuestionaryAlert 
+2024-08-18 13:19:13 INFO  LoggerClass:11 - QuestionaryConfirmAlertTest
+2024-08-18 13:19:13 INFO  LoggerClass:11 - QuestionaryConfirmAcceptButtonTest
+2024-08-18 13:19:13 INFO  LoggerClass:11 - QuestionaryConfirmRejectTest
+2024-08-18 13:19:13 INFO  LoggerClass:11 - QuestionaryConfirmDismissButton 
+2024-08-18 13:19:13 INFO  LoggerClass:11 - QuestionaryDataPickerTest
+2024-08-18 13:19:13 INFO  LoggerClass:11 - QuestionaryDataPicker
+2024-08-18 13:19:13 INFO  LoggerClass:11 - QuestionaryDoubleClickTest
+2024-08-18 13:19:13 INFO  LoggerClass:11 - QuestionaryDoubleClick
+2024-08-18 13:19:13 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-18 13:19:13 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-18 13:19:13 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-18 13:19:13 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-18 13:19:13 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-18 13:19:13 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-18 13:19:13 INFO  LoggerClass:11 - QuestionaryNewTabTest
+2024-08-18 13:19:13 INFO  LoggerClass:11 - QuestionaryNewTab
+2024-08-18 13:19:14 INFO  LoggerClass:11 - QuestionaryProcessTest
+2024-08-18 13:19:14 INFO  LoggerClass:11 - QuestionaryProcessClick
+2024-08-18 13:19:14 INFO  LoggerClass:11 - QuestionaryPromptAlertTest
+2024-08-18 13:19:14 INFO  LoggerClass:11 - QuestionaryPromptAlert
+2024-08-18 13:19:14 INFO  LoggerClass:11 - QuestionaryRightClickTest
+2024-08-18 13:19:14 INFO  LoggerClass:11 - QuestionaryRightClick
+2024-08-18 13:19:14 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 13:20:56 INFO  LoggerClass:11 - QuestionaryAlertTest
+2024-08-18 13:20:56 INFO  LoggerClass:11 - QuestionaryAlert 
+2024-08-18 13:20:56 INFO  LoggerClass:11 - QuestionaryConfirmAlertTest
+2024-08-18 13:20:56 INFO  LoggerClass:11 - QuestionaryConfirmAcceptButtonTest
+2024-08-18 13:20:56 INFO  LoggerClass:11 - QuestionaryConfirmRejectTest
+2024-08-18 13:20:56 INFO  LoggerClass:11 - QuestionaryConfirmDismissButton 
+2024-08-18 13:20:56 INFO  LoggerClass:11 - QuestionaryDataPickerTest
+2024-08-18 13:20:56 INFO  LoggerClass:11 - QuestionaryDataPicker
+2024-08-18 13:20:56 INFO  LoggerClass:11 - QuestionaryDoubleClickTest
+2024-08-18 13:20:56 INFO  LoggerClass:11 - QuestionaryDoubleClick
+2024-08-18 13:20:56 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-18 13:20:56 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-18 13:20:56 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-18 13:20:56 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-18 13:20:56 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-18 13:20:56 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-18 13:20:56 INFO  LoggerClass:11 - QuestionaryNewTabTest
+2024-08-18 13:20:56 INFO  LoggerClass:11 - QuestionaryNewTab
+2024-08-18 13:20:57 INFO  LoggerClass:11 - QuestionaryProcessTest
+2024-08-18 13:20:57 INFO  LoggerClass:11 - QuestionaryProcessClick
+2024-08-18 13:20:57 INFO  LoggerClass:11 - QuestionaryPromptAlertTest
+2024-08-18 13:20:57 INFO  LoggerClass:11 - QuestionaryPromptAlert
+2024-08-18 13:20:57 INFO  LoggerClass:11 - QuestionaryRightClickTest
+2024-08-18 13:20:57 INFO  LoggerClass:11 - QuestionaryRightClick
+2024-08-18 13:20:57 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 13:24:15 INFO  LoggerClass:11 - QuestionaryAlertTest
+2024-08-18 13:24:15 INFO  LoggerClass:11 - QuestionaryAlert 
+2024-08-18 13:24:15 INFO  LoggerClass:11 - QuestionaryConfirmAlertTest
+2024-08-18 13:24:15 INFO  LoggerClass:11 - QuestionaryConfirmAcceptButtonTest
+2024-08-18 13:24:15 INFO  LoggerClass:11 - QuestionaryConfirmRejectTest
+2024-08-18 13:24:15 INFO  LoggerClass:11 - QuestionaryConfirmDismissButton 
+2024-08-18 13:24:15 INFO  LoggerClass:11 - QuestionaryDataPickerTest
+2024-08-18 13:24:15 INFO  LoggerClass:11 - QuestionaryDataPicker
+2024-08-18 13:24:15 INFO  LoggerClass:11 - QuestionaryDoubleClickTest
+2024-08-18 13:24:15 INFO  LoggerClass:11 - QuestionaryDoubleClick
+2024-08-18 13:24:15 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-18 13:24:15 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-18 13:24:16 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-18 13:24:16 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-18 13:24:16 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-18 13:24:16 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-18 13:24:16 INFO  LoggerClass:11 - QuestionaryNewTabTest
+2024-08-18 13:24:16 INFO  LoggerClass:11 - QuestionaryNewTab
+2024-08-18 13:24:16 INFO  LoggerClass:11 - QuestionaryProcessTest
+2024-08-18 13:24:16 INFO  LoggerClass:11 - QuestionaryProcessClick
+2024-08-18 13:24:16 INFO  LoggerClass:11 - QuestionaryPromptAlertTest
+2024-08-18 13:24:16 INFO  LoggerClass:11 - QuestionaryPromptAlert
+2024-08-18 13:24:16 INFO  LoggerClass:11 - QuestionaryRightClickTest
+2024-08-18 13:24:16 INFO  LoggerClass:11 - QuestionaryRightClick
+2024-08-18 13:24:17 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 13:26:27 INFO  LoggerClass:11 - QuestionaryAlertTest
+2024-08-18 13:26:27 INFO  LoggerClass:11 - QuestionaryAlert 
+2024-08-18 13:26:27 INFO  LoggerClass:11 - QuestionaryConfirmAlertTest
+2024-08-18 13:26:27 INFO  LoggerClass:11 - QuestionaryConfirmAcceptButtonTest
+2024-08-18 13:26:27 INFO  LoggerClass:11 - QuestionaryConfirmRejectTest
+2024-08-18 13:26:27 INFO  LoggerClass:11 - QuestionaryConfirmDismissButton 
+2024-08-18 13:26:27 INFO  LoggerClass:11 - QuestionaryDataPickerTest
+2024-08-18 13:26:27 INFO  LoggerClass:11 - QuestionaryDataPicker
+2024-08-18 13:26:28 INFO  LoggerClass:11 - QuestionaryDoubleClickTest
+2024-08-18 13:26:28 INFO  LoggerClass:11 - QuestionaryDoubleClick
+2024-08-18 13:26:28 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-18 13:26:28 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-18 13:26:28 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-18 13:26:28 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-18 13:26:28 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-18 13:26:28 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-18 13:26:28 INFO  LoggerClass:11 - QuestionaryNewTabTest
+2024-08-18 13:26:28 INFO  LoggerClass:11 - QuestionaryNewTab
+2024-08-18 13:26:29 INFO  LoggerClass:11 - QuestionaryProcessTest
+2024-08-18 13:26:29 INFO  LoggerClass:11 - QuestionaryProcessClick
+2024-08-18 13:26:29 INFO  LoggerClass:11 - QuestionaryPromptAlertTest
+2024-08-18 13:26:29 INFO  LoggerClass:11 - QuestionaryPromptAlert
+2024-08-18 13:26:29 INFO  LoggerClass:11 - QuestionaryRightClickTest
+2024-08-18 13:26:29 INFO  LoggerClass:11 - QuestionaryRightClick
+2024-08-18 13:26:29 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 13:28:59 INFO  LoggerClass:11 - QuestionaryAlertTest
+2024-08-18 13:28:59 INFO  LoggerClass:11 - QuestionaryAlert 
+2024-08-18 13:28:59 INFO  LoggerClass:11 - QuestionaryConfirmAlertTest
+2024-08-18 13:28:59 INFO  LoggerClass:11 - QuestionaryConfirmAcceptButtonTest
+2024-08-18 13:28:59 INFO  LoggerClass:11 - QuestionaryConfirmRejectTest
+2024-08-18 13:28:59 INFO  LoggerClass:11 - QuestionaryConfirmDismissButton 
+2024-08-18 13:28:59 INFO  LoggerClass:11 - QuestionaryDataPickerTest
+2024-08-18 13:28:59 INFO  LoggerClass:11 - QuestionaryDataPicker
+2024-08-18 13:29:00 INFO  LoggerClass:11 - QuestionaryDoubleClickTest
+2024-08-18 13:29:00 INFO  LoggerClass:11 - QuestionaryDoubleClick
+2024-08-18 13:29:00 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-18 13:29:00 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-18 13:29:00 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-18 13:29:00 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-18 13:29:00 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-18 13:29:00 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-18 13:29:00 INFO  LoggerClass:11 - QuestionaryNewTabTest
+2024-08-18 13:29:00 INFO  LoggerClass:11 - QuestionaryNewTab
+2024-08-18 13:29:01 INFO  LoggerClass:11 - QuestionaryProcessTest
+2024-08-18 13:29:01 INFO  LoggerClass:11 - QuestionaryProcessClick
+2024-08-18 13:29:04 INFO  LoggerClass:11 - QuestionaryPromptAlertTest
+2024-08-18 13:29:04 INFO  LoggerClass:11 - QuestionaryPromptAlert
+2024-08-18 13:29:04 INFO  LoggerClass:11 - QuestionaryRightClickTest
+2024-08-18 13:29:04 INFO  LoggerClass:11 - QuestionaryRightClick
+2024-08-18 13:29:04 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 13:33:41 INFO  LoggerClass:11 - QuestionaryAlertTest
+2024-08-18 13:33:41 INFO  LoggerClass:11 - QuestionaryAlert 
+2024-08-18 13:33:41 INFO  LoggerClass:11 - QuestionaryConfirmAlertTest
+2024-08-18 13:33:41 INFO  LoggerClass:11 - QuestionaryConfirmAcceptButtonTest
+2024-08-18 13:33:41 INFO  LoggerClass:11 - QuestionaryConfirmRejectTest
+2024-08-18 13:33:41 INFO  LoggerClass:11 - QuestionaryConfirmDismissButton 
+2024-08-18 13:33:41 INFO  LoggerClass:11 - QuestionaryDataPickerTest
+2024-08-18 13:33:41 INFO  LoggerClass:11 - QuestionaryDataPicker
+2024-08-18 13:33:41 INFO  LoggerClass:11 - QuestionaryDoubleClickTest
+2024-08-18 13:33:41 INFO  LoggerClass:11 - QuestionaryDoubleClick
+2024-08-18 13:33:42 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-18 13:33:42 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-18 13:33:42 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-18 13:33:42 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-18 13:33:42 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-18 13:33:42 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-18 13:33:42 INFO  LoggerClass:11 - QuestionaryNewTabTest
+2024-08-18 13:33:42 INFO  LoggerClass:11 - QuestionaryNewTab
+2024-08-18 13:33:43 INFO  LoggerClass:11 - QuestionaryProcessTest
+2024-08-18 13:33:43 INFO  LoggerClass:11 - QuestionaryProcessClick
+2024-08-18 13:33:46 INFO  LoggerClass:11 - QuestionaryPromptAlertTest
+2024-08-18 13:33:46 INFO  LoggerClass:11 - QuestionaryPromptAlert
+2024-08-18 13:33:46 INFO  LoggerClass:11 - QuestionaryRightClickTest
+2024-08-18 13:33:46 INFO  LoggerClass:11 - QuestionaryRightClick
+2024-08-18 13:33:46 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 14:55:44 INFO  LoggerClass:11 - QuestionaryAlertTest
+2024-08-18 14:55:44 INFO  LoggerClass:11 - QuestionaryAlert 
+2024-08-18 14:55:44 INFO  LoggerClass:11 - QuestionaryConfirmAlertTest
+2024-08-18 14:55:44 INFO  LoggerClass:11 - QuestionaryConfirmAcceptButtonTest
+2024-08-18 14:55:44 INFO  LoggerClass:11 - QuestionaryConfirmRejectTest
+2024-08-18 14:55:44 INFO  LoggerClass:11 - QuestionaryConfirmDismissButton 
+2024-08-18 14:55:44 INFO  LoggerClass:11 - QuestionaryDataPickerTest
+2024-08-18 14:55:44 INFO  LoggerClass:11 - QuestionaryDataPicker
+2024-08-18 14:55:44 INFO  LoggerClass:11 - QuestionaryDoubleClickTest
+2024-08-18 14:55:44 INFO  LoggerClass:11 - QuestionaryDoubleClick
+2024-08-18 14:55:44 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-18 14:55:44 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-18 14:55:44 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-18 14:55:44 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-18 14:55:44 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-18 14:55:45 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-18 14:55:45 INFO  LoggerClass:11 - QuestionaryNewTabTest
+2024-08-18 14:55:45 INFO  LoggerClass:11 - QuestionaryNewTab
+2024-08-18 14:55:45 INFO  LoggerClass:11 - QuestionaryProcessTest
+2024-08-18 14:55:45 INFO  LoggerClass:11 - QuestionaryProcessClick
+2024-08-18 14:55:48 INFO  LoggerClass:11 - QuestionaryPromptAlertTest
+2024-08-18 14:55:48 INFO  LoggerClass:11 - QuestionaryPromptAlert
+2024-08-18 14:55:48 INFO  LoggerClass:11 - QuestionaryRightClickTest
+2024-08-18 14:55:48 INFO  LoggerClass:11 - QuestionaryRightClick
+2024-08-18 14:55:49 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 15:22:42 INFO  LoggerClass:11 - clickOrdersLinkAndAssercion
+2024-08-18 15:22:42 INFO  LoggerClass:11 - Logowanie do aplikacji
+2024-08-18 15:22:42 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-18 15:22:42 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-18 15:22:42 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-18 15:22:42 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 15:23:19 INFO  LoggerClass:11 - clickOrdersLinkAndAssercion
+2024-08-18 15:23:19 INFO  LoggerClass:11 - Logowanie do aplikacji
+2024-08-18 15:23:19 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-18 15:23:19 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-18 15:23:19 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-18 15:23:19 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 15:24:21 INFO  LoggerClass:11 - clickOrdersLinkAndAssercion
+2024-08-18 15:24:21 INFO  LoggerClass:11 - Logowanie do aplikacji
+2024-08-18 15:24:21 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-18 15:24:21 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-18 15:24:21 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-18 15:24:21 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 15:26:28 INFO  LoggerClass:11 - clickOrdersLinkAndAssercion
+2024-08-18 15:26:28 INFO  LoggerClass:11 - Logowanie do aplikacji
+2024-08-18 15:26:28 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-18 15:26:28 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-18 15:26:28 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-18 15:26:28 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 15:27:19 INFO  LoggerClass:11 - clickOrdersLinkAndAssercion
+2024-08-18 15:27:19 INFO  LoggerClass:11 - Logowanie do aplikacji
+2024-08-18 15:27:19 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-18 15:27:19 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-18 15:27:19 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-18 15:29:19 INFO  LoggerClass:11 - clickOrdersLinkAndAssercion
+2024-08-18 15:29:19 INFO  LoggerClass:11 - Logowanie do aplikacji
+2024-08-18 15:29:19 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-18 15:29:19 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-18 15:29:19 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-18 15:29:20 INFO  LoggerClass:11 - Clicking on Orders Link
+2024-08-18 15:42:03 INFO  LoggerClass:11 - Login test
+2024-08-18 15:42:03 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-18 15:42:03 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-18 15:42:03 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-18 15:42:04 INFO  LoggerClass:11 - Kliknięcie przycisku wyloguj
+2024-08-18 15:42:05 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 15:42:06 INFO  LoggerClass:11 - QuestionaryFirstSetupTest
+2024-08-18 15:42:06 INFO  LoggerClass:11 - First Setup Test - textboxes / radiobuttons / checkbox
+2024-08-18 15:42:06 INFO  LoggerClass:11 - First Setup Test - input surname
+2024-08-18 15:42:06 INFO  LoggerClass:11 - First Setup Test - input male
+2024-08-18 15:42:06 INFO  LoggerClass:11 - First Setup Test - radiobutton Age
+2024-08-18 15:42:06 INFO  LoggerClass:11 - First Setup Test - checkbox Product
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryDataPickerTest
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryDataPicker
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryAlertTest
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryAlert 
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryPromptAlertTest
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryPromptAlert
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryConfirmAlertTest
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryConfirmAcceptButtonTest
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryConfirmRejectTest
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryConfirmDismissButton 
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryRightClickTest
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryRightClick
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryProcessTest
+2024-08-18 15:42:07 INFO  LoggerClass:11 - QuestionaryProcessClick
+2024-08-18 15:42:11 INFO  LoggerClass:11 - QuestionaryDoubleClickTest
+2024-08-18 15:42:11 INFO  LoggerClass:11 - QuestionaryDoubleClick
+2024-08-18 15:42:11 INFO  LoggerClass:11 - QuestionaryNewTabTest
+2024-08-18 15:42:11 INFO  LoggerClass:11 - QuestionaryNewTab
+2024-08-18 15:42:11 INFO  LoggerClass:11 - Zamknięcie przeglądarki
+2024-08-18 15:42:13 INFO  LoggerClass:11 - clickOrdersLinkAndAssercion
+2024-08-18 15:42:13 INFO  LoggerClass:11 - Logowanie do aplikacji
+2024-08-18 15:42:13 INFO  LoggerClass:11 - Podanie nazwy usera do pola input
+2024-08-18 15:42:13 INFO  LoggerClass:11 - Podanie nazwy password do pola input
+2024-08-18 15:42:13 INFO  LoggerClass:11 - Wciśnięcie przycisku Zaloguj
+2024-08-18 15:42:13 INFO  LoggerClass:11 - Clicking on Orders Link

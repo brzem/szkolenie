@@ -46,6 +46,11 @@ public class LoginPage {
                 logoutButton.click();
     }
 
+    public void logoutTest(){
+        LoggerClass.info("Logout  correctly");
+        logoutButton.click();
+    }
+
 
     public void invalidLoginTest(String userName, String password) {
         LoggerClass.info("Podanie nazwy usera do pola input");
